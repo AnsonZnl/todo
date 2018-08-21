@@ -30,8 +30,8 @@ https://www.jianshu.com/p/42e11515c10f 《入门Webpack，看这篇就够了》�
 视频里所有提到的插件，描述可能不是很准确，毕竟也是从网上拼凑出来的
 webpack
 Vue
-vue-loader css-loader-------处理css文件中的url()等	http://www.css88.com/doc/webpack/loaders/css-loader/
-style-loader-------自动将css代码放到生成的style标签中插入到head标签里 http://www.css88.com/doc/webpack/loaders/style-loader/
+vue-loader css-loader-------处理css文件中的url()等	http://www.css88.com/doc/webpack/loaders/css-loader/  
+style-loader-------自动将css代码放到生成的style标签中插入到head标签里 http://www.css88.com/doc/webpack/loaders/style-loader/  
 url-loader-------解决图片较多，会发很多http请求，会降低页面性能等问题 http://www.css88.com/doc/webpack/loaders/url-loader/
 file-loader-------解决图片引入问题	http://www.css88.com/doc/webpack/loaders/file-loader/
 stylus
